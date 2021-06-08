@@ -1,0 +1,9 @@
+numpy
+pandas
+imageio
+progressbar2
+matplotlib
+scikit-learn
+conda-forge::umap-learn
+conda-forge::ncvis
+kaggle

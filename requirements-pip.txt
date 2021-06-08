@@ -1,0 +1,10 @@
+numpy
+cython
+pandas
+imageio
+progressbar2
+matplotlib
+scikit-learn
+umap-learn
+kaggle
+ncvis
