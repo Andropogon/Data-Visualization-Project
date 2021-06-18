@@ -1,8 +1,12 @@
 Data Visualization Project
 NCVis comparison with other data visualization methods. Based on oryginal NCVis repo: https://github.com/stat-ml/ncvis-examples
+
 Jan Gąsienica-Józkowy
+
 Jakub Pasich
+
 Aleksander Stańdo
+
 
 You do not need to setup the environment if using conda, all dependencies are installed automatically.
 
